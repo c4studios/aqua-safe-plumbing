@@ -2,15 +2,15 @@
  * Single source of truth for business NAP + identity.
  *
  * Licence numbers, phone and email are REAL (client-supplied 2026-07).
- * Note: a ServiceM8 landline will replace/augment the mobile in the near
- * future — swap phoneDisplay/phoneHref here when it lands.
+ * Phone: Aaron's landline 08 6109 9459 replaced the mobile 0473 072 642 in
+ * Oct 2026 (his texts of 8 and 10 Oct 2026; the number on his vans).
  */
 export const business = {
   name: "Aqua-Safe Plumbing & Maintenance",
   shortName: "Aqua-Safe",
   tagline: "Plumbing, done properly.",
-  phoneDisplay: "0473 072 642",
-  phoneHref: "tel:0473072642",
+  phoneDisplay: "08 6109 9459",
+  phoneHref: "tel:0861099459",
   email: "info@aquasafeplumbing.com",
   area: "All Perth metro",
   // Real, client-supplied (Aaron, 2026-07). Domain purchased via Wix.

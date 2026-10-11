@@ -22,7 +22,7 @@ export const localBusinessJsonLd = {
   name: business.name,
   description:
     "Perth's trusted maintenance plumbers and gas fitters. Blocked drains, hot water, gas fitting, water filtration and commercial maintenance. Family-owned and fully insured.",
-  telephone: "+61473072642", // E.164 for reliable click-to-call
+  telephone: "+61861099459", // E.164 for reliable click-to-call (08 6109 9459, see business.ts)
   email: business.email,
   url: `${ORIGIN}/`,
   // Raster, not the SVG icon — Google won't use an SVG here.
